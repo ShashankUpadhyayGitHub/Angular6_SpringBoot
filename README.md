@@ -19,7 +19,15 @@ Department
 #Technology/ Framework used:
 
 * Front End: Angular 6, Bootstrap, Typescript, Jasmine, Karma
-* Back End: Java, Spring Boot, Rest API, Swagger, Junit, Mockito 
+* Back End: Java, Spring Boot, Rest API, Swagger, Junit, Mockito
+
+* run below commands for reinstalling
+
+   npm uninstall -g @angular/cli
+
+    npm cache clean    or   npm cache clean  --force
+
+    npm install -g @angular/cli@latest
 
 
 ----------------------------------------------------------------------------------------------------------------------------------
